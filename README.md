@@ -1,9 +1,11 @@
-# UIImage-to-CVPixelBuffer
+# UIImage to CVPixelBuffer
 A simple function to convert an UIImage to CVPixelBuffer for the use with Core ML. 
 
 ## Useage together with Core ML
 To see it in action have a look at my first tutorial on using Core ML
 ➡️ [Video on YouTube](https://youtu.be/NNKPbdT9gXU)
+
+[![Video](https://img.youtube.com/vi/NNKPbdT9gXU/0.jpg)](https://www.youtube.com/watch?v=NNKPbdT9gXU)
 
 ## Licence
 
